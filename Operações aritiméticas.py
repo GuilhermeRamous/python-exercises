@@ -1,0 +1,10 @@
+n1 = float(input("Digite um número: "))
+n2 = float(input("Digite outro número: "))
+
+print("Adição:", n1 + n2)
+print("Subtração:", n1 - n2)
+print("Multiplicação:", n1 * n2)
+print("Divisão:", n1 / n2)
+print("Divisão inteira:", n1 // n2)
+print("Módulo:", n1 % n2)
+print("Exponenciação:", n1 ** n2)
